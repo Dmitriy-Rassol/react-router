@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.form-container__input {
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.form-container__input::placeholder {
+    color:#fff;
+    
+}

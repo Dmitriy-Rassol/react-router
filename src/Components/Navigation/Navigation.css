@@ -1,0 +1,9 @@
+.navigation-menu__container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.active-link {
+    color: rgb(0, 0, 0);
+}
